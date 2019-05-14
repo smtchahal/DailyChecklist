@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Daily checklist",
+    "slug": "DailyChecklist",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": ["android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
